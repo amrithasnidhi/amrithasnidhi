@@ -51,7 +51,3 @@
 
 <br clear="both">
 
-### 🐍 GitHub Activity Snake
-
-<img src="https://raw.githubusercontent.com/amrithasnidhi/amrithasnidhi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
